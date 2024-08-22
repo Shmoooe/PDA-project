@@ -21,4 +21,8 @@ This repository contains four files:
 
     This is the Jupyter Notebook where you will find the code and the analysis of the data itself. 
 
+## abalone.ipynb
+
+This jupyter notebook can be viewed on the ![github website](https://github.com/Shmoooe/PDA-project/blob/main/abalone.ipynb).
+
 
